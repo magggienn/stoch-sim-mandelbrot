@@ -1,11 +1,11 @@
 # Assignment 1 for Stochastic Simulations
 
-See the assignment details. 
+See the [assignment details](Assignment 1 - MANDELBROT.pdf). 
 
 ## Getting started
 
 This repository uses _uv_ to manage Python and its dependencies, and _pre-commit_ to run
-automatic code linting & formatting, and Jupyter notebook cleanup prior to git commits.
+automatic code linting & formatting, and Jupyter notebook cleanup prior to git commits. More about UV [here](https://docs.astral.sh/uv/guides/projects/).
 
 1. Install [uv](https://github.com/astral-sh/uv)
 
