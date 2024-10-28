@@ -6,7 +6,6 @@ See the assignment details.
 
 This repository uses _uv_ to manage Python and its dependencies, and _pre-commit_ to run
 automatic code linting & formatting, and Jupyter notebook cleanup prior to git commits.
-More information about UV [here](https://github.com/astral-sh/ruff/blob/main/README.md).
 
 1. Install [uv](https://github.com/astral-sh/uv)
 
