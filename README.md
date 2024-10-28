@@ -1,6 +1,6 @@
 # Assignment 1 for Stochastic Simulations
 
-See the [assignment details](Assignment 1 - MANDELBROT.pdf). 
+See the [assignment details](https://github.com/magggienn/stoch-sim-mandelbrot/blob/main/Assignment%201%20-%20MANDELBROT.pdf). 
 
 ## Getting started
 
