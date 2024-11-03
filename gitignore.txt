@@ -177,6 +177,3 @@ uv.exe
 uvx.exe
 pre-commit.exe
 # End of https://www.toptal.com/developers/gitignore/api/python
-
-*.png
-
